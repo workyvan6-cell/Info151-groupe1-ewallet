@@ -5,6 +5,6 @@ Travail collaboratif en équipe dans le cadre du TP de génie logiciel
 - kamga Gaëtan : salut à tous 
 - corneille :salutations à tous 
 - rita :salut à tous
-- Yvan :salut à tous 👋👋
+- Tchoungo Piamou Yvan Jaurès :salut à tous 👋👋
 - Raoult : salut, chers collaborateurs !
 salut 
