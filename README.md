@@ -1,4 +1,4 @@
-# TP-genie-logiciel-groupe1-
+# Info151-groupe1-ewallet
 Travail collaboratif en équipe dans le cadre du TP de génie logiciel
 
 - Rosemarie :salut à tous 
