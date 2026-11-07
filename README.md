@@ -7,4 +7,5 @@ Travail collaboratif en équipe dans le cadre du TP de génie logiciel
 - rita :salut à tous
 - Tchoungo Piamou Yvan Jaurès :salut à tous 👋👋
 - Raoult : salut, chers collaborateurs !
+- Steve : Salutations 
 - NOUCHA SANDJO SEVERIN NELSON : salut à tous 
