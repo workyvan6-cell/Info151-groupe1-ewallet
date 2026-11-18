@@ -8,5 +8,6 @@ Travail collaboratif en équipe dans le cadre du TP de génie logiciel
 - Tchoungo Piamou Yvan Jaurès :salut à tous 👋👋
 - Raoult : salut, chers collaborateurs !
 - Steve : Salutations 
-- NOUCHA SANDJO SEVERIN NELSON : salut à tous 
-kampo patrice : salutations à tous 
+- NOUCHA SANDJO SEVERIN NELSON : salut à tous
+  
+- kampo patrice : salutations à tous 
