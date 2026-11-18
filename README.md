@@ -9,3 +9,4 @@ Travail collaboratif en équipe dans le cadre du TP de génie logiciel
 - Raoult : salut, chers collaborateurs !
 - Steve : Salutations 
 - NOUCHA SANDJO SEVERIN NELSON : salut à tous 
+kampo patrice : salutations à tous 
